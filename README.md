@@ -10,6 +10,10 @@ I wanna make Rust community in my courage!!
 
 # my skill
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c)
+# my framework
+![](https://skillicons.dev/icons?i=nodejs,rocket)
+# DB and Dev Tool
+![](https://skillicons.dev/icons?i=mysql,firebase,figma,illustrator,vscode,neovim)
 
 
 [kmc-url]: https://www.kamiyama.ac.jp
