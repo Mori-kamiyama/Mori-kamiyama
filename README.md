@@ -2,7 +2,7 @@
 
 My name is Mori, I am [KMC][kmc-url] students.
 
-I am beginer a Rustacean🦀, and beginer WEB programmer. My projects is [there][toromino-url]
+I am beginner a Rustacean🦀, and beginner WEB programmer. My projects are [here][toromino-url]
 
 I wanna make Rust community in my college!!
 
