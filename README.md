@@ -9,11 +9,9 @@ I wanna make Rust community in my courage!!
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mori-kamiyama)
 
 # my skill
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c)
-# my framework
-![](https://skillicons.dev/icons?i=nodejs,rocket)
-# DB and Dev Tool
-![](https://skillicons.dev/icons?i=mysql,firebase,figma,illustrator,vscode,neovim)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c,nodejs,rocket,mysql,firebase,figma,vscode,neovim)
+
+
 
 
 [kmc-url]: https://www.kamiyama.ac.jp
