@@ -4,7 +4,7 @@ My name is Mori, I am [KMC][kmc-url] students.
 
 I am beginner a Rustacean🦀, and beginner WEB programmer. My projects are [here][toromino-url]
 
-I wanna make Rust community in my college!!
+I wanna make a Rust community in my college!!
 
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mori-kamiyama&hide=contribs&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/mori-kamiyama/)
