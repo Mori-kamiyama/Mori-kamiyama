@@ -6,7 +6,10 @@ I am beginer a Rustacean🦀, and beginer WEB programmer. My projects is [there]
 
 I wanna make Rust community in my courage!!
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mori-kamiyama)
+
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mori-kamiyama&hide=contribs&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/mori-kamiyama/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mori-kamiyama&layout=compact&theme=shadow_blue)](https://github.com/mori-kamiyama/)
+
 
 # my skill
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c,nodejs,rocket,mysql,firebase,figma,vscode,neovim)
