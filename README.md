@@ -1,16 +1,13 @@
-## Hi there 👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to Me you!!!!
 
-<!--
-**Mori-kamiyama/Mori-kamiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mori, I am [KMC][kmc-url] students.
 
-Here are some ideas to get you started:
+I am beginer a Rustacean, and beginer WEB programmer. My projects is [there][toromino-url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I wanna make Rust community in my courage.!!
+
+
+
+
+[kmc-url]: https://www.kamiyama.ac.jp
+[toromino-url]: https://www.toromino.net
