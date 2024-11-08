@@ -11,7 +11,8 @@ I wanna make Rust community in my courage!!
 # my skill
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c,nodejs,rocket,mysql,firebase,figma,vscode,neovim)
 
-
+# thank you for reading👋
+<img src="rustacean-flat-gesture.png" width="300"/>
 
 
 [kmc-url]: https://www.kamiyama.ac.jp
