@@ -9,7 +9,6 @@ I wanna make a Rust community in my college!!
 ## contact
 - [Linkedin][linkedin-url]
 - [X][x-url]
-- 
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mori-kamiyama&hide=contribs&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/mori-kamiyama/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mori-kamiyama&layout=compact&theme=shadow_blue)](https://github.com/mori-kamiyama/)
