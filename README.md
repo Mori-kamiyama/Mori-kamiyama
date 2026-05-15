@@ -15,7 +15,7 @@ I wanna make a Rust community in my college!!
 
 
 # my skill
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c,nodejs,rocket,mysql,firebase,figma,vscode,neovim)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,rust,c,nodejs,figma,vscode,neovim)
 
 # thank you for reading👋
 <img src="rustacean-flat-gesture.png" width="300"/>
